@@ -1,0 +1,15 @@
+Changes
+MANIFEST
+README
+Makefile.PL
+Mix.pm
+test.pl
+makewavs.pl
+Mix/Analyse.pm
+Mix/XFade.pm
+Mix/Display.pm
+Mix/Hints.pm
+Mix/Display/Template.pm
+Mix/XFade/Analyse.pm
+Mix/XFade/CoolEdit.pm
+Mix/XFade/Wav.pm
